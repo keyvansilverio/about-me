@@ -6,8 +6,8 @@ Phone:  +375 25 904 82 34
 Email:  filipp.s.frizzy@gmail.com  
 Skype:  filipp.frizzy
 
-![https://github.com/Friz-zy](https://raw.github.com/github/media/master/octocats/blacktocat-32.png)
-![http://linkedin.com/pub/filipp-frizzy/60/a03/289/](https://cdn3.iconfinder.com/data/icons/socialnetworking/32/linkedin.png)
+[![](https://raw.github.com/github/media/master/octocats/blacktocat-32.png)](https://github.com/Friz-zy)
+[![](https://cdn3.iconfinder.com/data/icons/socialnetworking/32/linkedin.png)](http://linkedin.com/pub/filipp-frizzy/60/a03/289/)
 
 ---
 ### Summary
@@ -25,7 +25,7 @@ The diligence and dedication, responsibility, keen interest and desire to solve 
 - **monitoring**:    zabbix, sensu, graphite, ELK
 - **containers**:    lxc, docker, vagrant
 - **tdd**:    pytest
-- **docs**:    jinja2, pdoc
+- **docs**:    jinja2, pdoc, mkdocs, readthedocs
 - **vcs**:    svn, git, perforce
 - **databases**:    mysql, percona -- crud, procedures
 - **language ability**:    native russian, pre intermediate english
