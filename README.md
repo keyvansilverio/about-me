@@ -8,6 +8,7 @@ Skype:  filipp.frizzy
 
 [![](https://raw.github.com/github/media/master/octocats/blacktocat-32.png)](https://github.com/Friz-zy)
 [![](https://cdn3.iconfinder.com/data/icons/socialnetworking/32/linkedin.png)](http://linkedin.com/pub/filipp-frizzy/60/a03/289/)
+[![](http://www.ryatt.ca/static/icons/print_32.png)](https://gitprint.com/Friz-zy/about-me)
 
 ---
 ### Summary
