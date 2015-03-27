@@ -47,9 +47,9 @@ The diligence and dedication, responsibility, keen interest and desire to solve 
 * Managing infrastructure with configuration management software (Fabric, Ansible, Puppet)
 
     A large project requires a lot of responsibility.  
-As part of the team I are participating in the development and implementation of new standards and services to support our projects:
+As part of the team i participate in the development and implementation of new standards and services to support our projects:
 scripts deployment, monitoring, collecting metrics, documentation - it's only a small part of the work.
-I also take an active part in the release cycle of new product versions, starting with test and ending with deployment to the production staging.
+I also take an active part in the release cycle of new product versions, starting with tests and ending with deployment to the production staging.
 
     I have been involved in the development and coordinate the integration WoT360e to our technology stack from 2013.
 I actively communicate with the team of Wargaming Chicago-Baltimore studio through calls and business trips.
