@@ -29,7 +29,7 @@ The diligence and dedication, responsibility, keen interest and desire to solve 
 - **docs**:    jinja2, pdoc, mkdocs, readthedocs
 - **vcs**:    svn, git, perforce
 - **databases**:    mysql, percona -- crud, procedures
-- **language ability**:    native russian, pre intermediate english
+- **language ability**:    native russian, intermediate english
 
 ---
 ### Experience
