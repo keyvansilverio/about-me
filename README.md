@@ -20,7 +20,7 @@ The diligence and dedication, responsibility, keen interest and desire to solve 
 ### Skills & Expertise
 
 - **linux**:    ubuntu, debian, centos -- configurations, metrics, logs, investigations
-- **python**:    scripts, cli and desktop apps -- argparse, pyside, pyqt
+- **python**:    scripts, cli and desktop apps -- argparse, pyside, pyqt, gevent
 - **deploy**:    fabric, ansible
 - **managing**:    puppet
 - **monitoring**:    zabbix, sensu, graphite, ELK
