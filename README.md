@@ -55,3 +55,13 @@ I also take an active part in the release cycle of new product versions, startin
 I actively communicate with the team of Wargaming Chicago-Baltimore studio through calls and business trips.
 
     Also i'm a presenter and speaker at minsk python meetup as well as in internal meetups of our company.
+
+---
+### Volunteer
+
+##### Minsk Python Meetup -- Minsk, Belarus -- August 2014
+
+*Presenter and Speaker*
+
+Monthly public meetups on the topic of python language and programming technology in general
+https://www.facebook.com/MinskPythonMeetup
