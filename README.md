@@ -65,3 +65,9 @@ I actively communicate with the team of Wargaming Chicago-Baltimore studio throu
 
 Monthly public meetups on the topic of python language and programming technology in general
 https://www.facebook.com/MinskPythonMeetup
+
+---
+### Media
+
+- [This is GameDev, baby! Interview with developers of World of Tanks](https://hackmag.com/devops/interview-with-wot-developers/)
+- [Сontainers. We need to go deeper](https://www.youtube.com/watch?v=l677xcz-gX0)
