@@ -16,6 +16,12 @@ Skype:  filipp.frizzy
 I'm a young and vigorous devops and i'm in love with python, Linux and highload projects.
 The diligence and dedication, responsibility, keen interest and desire to solve the problem lets me work well as a single specialist and in a team.
 
+### Desired growth zones
+
+- technical evangelist
+- devops, sysop
+- developer
+
 ---
 ### Skills & Expertise
 
