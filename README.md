@@ -99,6 +99,7 @@ https://www.facebook.com/MinskPythonMeetup
 
 - [This is GameDev, baby! Interview with developers of World of Tanks](https://hackmag.com/devops/interview-with-wot-developers/)
 - [Сontainers. We need to go deeper](https://www.youtube.com/watch?v=l677xcz-gX0)
+- [Отчет о конференции europython 2015](https://www.youtube.com/watch?v=hFyycm_vur8)
 
 ---
 ### Education
