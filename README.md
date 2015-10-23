@@ -43,7 +43,7 @@ The diligence and dedication, responsibility, keen interest and desire to solve 
 ---
 ### Experience
 
-##### Wargaming.net -- Minsk, Belarus -- July 2012
+##### Wargaming.net -- Minsk, Belarus -- July 2012 - October 2015
 
 *Software Engineer*
 
