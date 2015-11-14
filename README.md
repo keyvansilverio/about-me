@@ -45,6 +45,12 @@ Diligence and dedication, responsibility, keen interest and desire to solve the 
 ---
 ### Experience
 
+##### Exadel -- Minsk, Belarus -- November 2015
+
+*Software Engineer*
+
+Project: DevOps in Glympse
+
 ##### Wargaming.net -- Minsk, Belarus -- July 2012 - October 2015
 
 *Software Engineer*
