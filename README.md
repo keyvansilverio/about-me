@@ -51,6 +51,19 @@ Diligence and dedication, responsibility, keen interest and desire to solve the 
 
 Project: DevOps in Glympse
 
+Responsibilities included:
+
+Development for environment  
+To facilitate operations I develop automation with Ansible: scale infrastructure with Amazon EC2 and Docker, deploy MongoDB cluster with replication and sharding, setup monitoring with ElastAlert and other stuff. Also I do not forget about testing and CI: we use a bundle of Vagrant and Jenkins.
+
+Environment:
+
+* AWS cloud
+* Ansible
+* Docker, Vagrant
+* AWS linux
+* Russian and English meetings, communications, docs
+
 ##### Wargaming.net -- Minsk, Belarus -- July 2012 - October 2015
 
 *Software Engineer*
