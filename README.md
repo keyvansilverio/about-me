@@ -44,9 +44,9 @@ Por fim, sou uma pessoa bem tranquila, com uma família adorável, pai da pequen
 ---
 ### Experiência
 
-##### Senior DevOps Engineer - Agosto 2020 - Atual
-
 ### Mandic Cloud Solution
+
+##### Senior DevOps Engineer - Agosto 2020 - Atual
 
 No Banco Inter minhas tarefas são: Configuração e implantação de recusrsos em Nuvem (AWS) através de IaC utilizando Terraform. Configuração e implantação de esteira de CI/CD utilizando Gitlab, Suporte N3 ao ambiente de produtivo, com produtos como: EKS, ECS, S3, EC2 etc.
 
@@ -62,9 +62,9 @@ Configuração e automação de serviços como:
 - load balancing with dns and haproxy
 - etc
 
-##### Cloud Specialist - Agosto 2019 - Agosto 2020
-
 ### Yamaha
+
+##### Cloud Specialist - Agosto 2019 - Agosto 2020
 
 Gerenciamento da infraestrutura em Cloud (AWS, Azure, OCI e GCP) desenvolvimento de pipelines e jobs de CI/CD, automação das rotinas manuais e desenvolvimento de scripts, arquitetura de sistemas para a infraestrutura ágil, suporte n3 ao time de infraestrutura e sustentação SER do e-commerce Blu Store.
 
