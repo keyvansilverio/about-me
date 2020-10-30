@@ -21,7 +21,7 @@ busca por novas soluções para complementar a plataforma atual.
 Não tenho medo de novos desafios, vejo isso como “sair da zona de conforto”, e amadurecimento profissional/pessoal, na
 verdade é o combustível ideal para me motivar e continuar fazendo o que sempre fiz.
 Estou sempre disponível para auxiliar os colegas de trabalho “offwork”, minhas maiores experiências em crises ocorreram de madrugada e aos finais de semana.
-Por fim, sou uma pessoa bem tranquila, com uma família adorável, pai da pequena Mariana de apenas um aninho e um grande sonhador.
+Por fim, sou uma pessoa bem tranquila, pai da pequena Mariana e com uma família adorável.
 
 ### `Área de atuação`
 
