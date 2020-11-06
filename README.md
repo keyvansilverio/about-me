@@ -48,7 +48,7 @@ Por fim, sou uma pessoa bem tranquila, pai da pequena Mariana e com uma família
 
 ##### Senior DevOps Engineer - Agosto 2020 - Atual
 
-Prestando serviço para um grande banco digital, localizado em MG executo as seguintes tarefas: Configuração e implantação de recusrsos em Nuvem (AWS) através de IaC utilizando Terraform. Configuração e implantação de esteira de CI/CD utilizando Gitlab, Suporte N3 ao ambiente de produtivo, com produtos como: EKS, ECS, S3, EC2 etc.
+Prestando serviço para um grande banco digital, localizado em MG executo as seguintes tarefas: Configuração e implantação de recusrsos em Nuvem (AWS) através de IaC utilizando Terraform e Ansible. Configuração e implantação de esteira de CI/CD utilizando Gitlab, Suporte N3 ao ambiente de produção, com produtos como: EKS, ECS, S3, EC2 etc.
 
 Configuração e automação de serviços como:
 - Cloud and Apps Architecture
