@@ -13,15 +13,20 @@ Email:  keyvansilveriomonteiro@gmail.com
 
 Sou um profissional apaixonado pelo que faz, esforçado e dedicado nas tarefas em que realizo.
 Atuo na área de TI desde 2009, especialista em Infraestrutura e sistemas Linux/Unix.
+
 Estou sempre em busca de desenvolvimento profissional contínuo, isso faz com que eu busque novos conhecimentos, treinamentos e revisão daquilo do que já aprendi ao longo do tempo, para aperfeiçoar cada vez mais minhas skills técnicas e pessoais.
+
 Meu resultado de temperamento comportamental na ferramenta DISC é = CD
-Minhas principais habilidades são em: Administração de Servidores/Aplicações em plataforma Linux/Unix,
+
+Minhas principais habilidades são em: Administração de Servidores/Aplicações distribuídas em plataforma Linux/Unix,
 desenvolvimento de rotinas automatizadas, troubleshooting para identificar degradação dos sistemas e
 busca por novas soluções para complementar a plataforma atual.
+
 Não tenho medo de novos desafios, vejo isso como “sair da zona de conforto”, e amadurecimento profissional/pessoal, na
 verdade é o combustível ideal para me motivar e continuar fazendo o que sempre fiz.
 Estou sempre disponível para auxiliar os colegas de trabalho “offwork”, minhas maiores experiências em crises ocorreram de madrugada e aos finais de semana.
-Por fim, sou uma pessoa bem tranquila, pai da pequena Mariana e com uma família adorável.
+
+Por fim, sou uma pessoa bem tranquila e grata por tudo que construi até aqui e isso é só o começo de uma jornada sem fim, vamos juntos!
 
 ### `Área de atuação`
 
@@ -44,9 +49,27 @@ Por fim, sou uma pessoa bem tranquila, pai da pequena Mariana e com uma família
 ---
 ### Experiência
 
+### Banco Inter
+
+##### Clpud Specialist | SRE - Abril 2021 - Atual
+
+Como SRE no Inter, executo as seguintes tarefas: Configuração e implantação de recusrsos em Nuvem (AWS) através de IaC utilizando Terraform e Ansible. Configuração e implantação de esteira de CI/CD utilizando Gitlab, Suporte N3 ao ambiente de produção, com produtos como: EKS, ECS, S3, EC2 etc. Owner de FinOps do time.
+
+Configuração e automação de serviços como:
+- Cloud and Apps Architecture
+- Gitlab - CI \ CD
+- AWS
+- K8S
+- Various web servers topologies (Apache, NGINX)
+- Mysql replication with auto failover
+- Mongodb cluster with shardes
+- Redis replication with auto failover
+- Load balancing with dns and haproxy
+- etc
+
 ### Mandic Cloud Solution
 
-##### Senior DevOps Engineer - Agosto 2020 - Atual
+##### Senior DevOps Engineer - Agosto 2020 - Abril 2021
 
 Prestando serviço para um grande banco digital, localizado em MG executo as seguintes tarefas: Configuração e implantação de recusrsos em Nuvem (AWS) através de IaC utilizando Terraform e Ansible. Configuração e implantação de esteira de CI/CD utilizando Gitlab, Suporte N3 ao ambiente de produção, com produtos como: EKS, ECS, S3, EC2 etc.
 
